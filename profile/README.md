@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is Team Q and our project is document extraction and management.
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -30,3 +32,8 @@
   - Pair programmed with Peter to integrate web app with the api servers built by him
   - Pair programmed with Moemen to add print functionality in the web app.
   - Integrated the display excel module built by Moemen.
+
+##### Pdf Manager
+  - Worked on the text extraction feature by integrating a third party API.
+  - Pair programmed with Peter to design an algorithm that maps rectangular coordinates from the extraction mentioned above with the rectangular coordinates from Peter's pdf extraction module class and decide which field key maps to what extracted value.
+  - Pair programmed with Peter in integrating all the apis with the mobile and web modules.
