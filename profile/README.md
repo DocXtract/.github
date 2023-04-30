@@ -51,3 +51,7 @@ This is Team Q and our project is document extraction and management.
  - Initialized a DB and integrated CRUD operations (Couldn't be used as lack of time and communication to migrate the apis on the infrastructure)
  - Implemented web UI with features of adding members, adding users, creating profile, updating profile, viewing members, updating members (Couldn't be used because the web app eliminated the feature of adding members and users) 
  
+#### 5. Dan Yee
+ - Worked on api for CRUD operations on the database (Requested by Devin and then wasn't utilised as Devin worked on that whole part individually)
+ - Implemented a drap and drop component in React (Requested by Muskaan and then not utilised as pdf upload feature was eliminated from final implementation. Component is useful and would be utilized while extending the project to allow organisations to upload a template form)
+ 
