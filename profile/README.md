@@ -47,11 +47,13 @@ This is Team Q and our project is document extraction and management.
   - Designed Figma Screens for the web app. (Couldn't be used because the web app eliminated the feature of adding members and users. Link for reference: [https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1](https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1))
   
 #### 4. Devin O'Brien
+Contributions in old repository [https://github.com/Digiform-AI](https://github.com/Digiform-AI)
  - Setup general infrastructure (Couldn't be used as lack of time and communication to migrate the apis on the infrastructure)
  - Initialized a DB and integrated CRUD operations (Couldn't be used as lack of time and communication to migrate the apis on the infrastructure)
  - Implemented web UI with features of adding members, adding users, creating profile, updating profile, viewing members, updating members (Couldn't be used because the web app eliminated the feature of adding members and users) 
  
 #### 5. Dan Yee
+Contributions in old repository [https://github.com/Digiform-AI](https://github.com/Digiform-AI)
  - Worked on api for CRUD operations on the database (Requested by Devin and then wasn't utilised as Devin worked on that whole part individually)
  - Implemented a drap and drop component in React (Requested by Muskaan and then not utilised as pdf upload feature was eliminated from final implementation. Component is useful and would be utilized while extending the project to allow organisations to upload a template form)
  
