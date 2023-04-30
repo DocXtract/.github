@@ -40,7 +40,11 @@ This is Team Q and our project is document extraction and management.
   - Pair programmed with Peter in integrating all the apis with the mobile and web modules.
  
 #### 3. Moemen Elmegahed
-  - Worked on viewing a pdf file in the browser
-  - Worked on displaying an excel sheet in the form of table in the web app
-  - Pair programmed with Muskaan to work on the print functionality on the mobile and web app
-  - Designed Figma Screens for the web app. (Couldn't be used because the web app eliminated the feature of adding members and users. Link for reference: [https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1](https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1)
+  - Worked on viewing a pdf file in the browser.
+  - Worked on displaying an excel sheet in the form of table in the web app.
+  - Implemented the feature of downloading the table excel as an excel sheet.
+  - Pair programmed with Muskaan to work on the print functionality on the mobile and web app.
+  - Designed Figma Screens for the web app. (Couldn't be used because the web app eliminated the feature of adding members and users. Link for reference: [https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1](https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1))
+  
+#### 4. Devin O'Brien
+ - Setup general infrastructure
