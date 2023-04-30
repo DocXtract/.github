@@ -28,7 +28,7 @@ This is Team Q and our project is document extraction and management.
   
 ##### Web App
   - Implemented the entire web app which includes developing the pages Dashboard which has list of forms and another page to display list of responses as well as the excel file.
-  - Implemented the feature for downloading a response from AWS S3 and viewing it as digital PDF.
+  - Implemented the feature for downloading a response from AWS S3 and integrated it with the viewing response as digital PDF built by Moemen.
   - Pair programmed with Peter to integrate web app with the api servers built by him
   - Pair programmed with Moemen to add print functionality in the web app.
   - Integrated the display excel module built by Moemen.
