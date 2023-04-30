@@ -15,8 +15,9 @@ This is Team Q and our project is document extraction and management.
 
 
 ### Contributions
+#### 1. Peter Buonaiuto
 
-#### 1. Muskaan Shaikh
+#### 2. Muskaan Shaikh
 ##### Mobile App
   - Implemented the entire mobile app which includes developing the pages Dashboard, Form Fill Type (Scan or Manual), Form Fill Page.
   - Integrated camera module to allow images to be clicked from the app itself. Added flash feature within camera module.
