@@ -15,8 +15,18 @@
 ### Contributions
 
 #### 1. Muskaan Shaikh
-#####  - Web App
+##### Mobile App
   - Implemented the entire mobile app which includes developing the pages Dashboard, Form Fill Type (Scan or Manual), Form Fill Page.
   - Integrated camera module to allow images to be clicked from the app itself. Added flash feature within camera module.
   - Used javascript to dynamically identify the type of input fields received from the server and display it on the mobile UI as html form input fields.
+  - Worked on the logic of segregating manual type forms with the forms which are scanned.
+  - Added a check of eliminating signature field for forms that are scanned and submitted.
+  - Pair programmed with Peter to integrate mobile app with the api servers built by him.
   - Pair programmed with Moemen to add print functionality in the mobile app.
+  
+##### Web App
+  - Implemented the entire web app which includes developing the pages Dashboard which has list of forms and another page to display list of responses as well as the excel file.
+  - Implemented the feature for downloading a response from AWS S3 and viewing it as digital PDF.
+  - Pair programmed with Peter to integrate web app with the api servers built by him
+  - Pair programmed with Moemen to add print functionality in the web app.
+  - Integrated the display excel module built by Moemen.
