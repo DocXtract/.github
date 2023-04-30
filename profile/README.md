@@ -8,16 +8,7 @@ The above link can be used to access all the repositories of our final implement
 2. ```web-portal```: The online portal where an organization can view responses to their forms in digital pdf or excel format.
 3. ```mobile-app```: The mobile application where a member can view their forms, choose to print them, and respond by direct entry or scanning.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The instructions to run each module locally can be found within a contained README.md file for each repository
 
 
 ### Contributions
@@ -89,6 +80,7 @@ Contributions in old repository [https://github.com/Digiform-AI](https://github.
  - Implemented a drap and drop component in React (Requested by Muskaan and then not utilised as pdf upload feature was eliminated from final implementation. Component is useful and would be utilized while extending the project to allow organisations to upload a template form)
  
 #### 6. Prudhvi Raj Bhashampally
+Contributions in old repository [https://github.com/Digiform-AI](https://github.com/Digiform-AI)
  - Researched and worked on the original text extraction method. (Couldn't be used because it wasn't accurate)
  - Researched the original mobile printing method. (Couldn't be used because it was not tested and integrated, and didn't work with s3)
  
