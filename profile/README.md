@@ -14,8 +14,8 @@
 
 ### Contributions
 
-#### Muskaan Shaikh
-##### Web App
+#### 1. Muskaan Shaikh
+#####  - Web App
   - Implemented the entire mobile app which includes developing the pages Dashboard, Form Fill Type (Scan or Manual), Form Fill Page.
   - Integrated camera module to allow images to be clicked from the app itself. Added flash feature within camera module.
   - Used javascript to dynamically identify the type of input fields received from the server and display it on the mobile UI as html form input fields.
