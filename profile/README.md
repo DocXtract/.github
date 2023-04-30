@@ -29,7 +29,7 @@ This is Team Q and our project is document extraction and management.
   
 ##### Web App
   - Implemented the entire web app which includes developing the pages Dashboard which has list of forms and another page to display list of responses as well as the excel file.
-  - Implemented the feature for downloading a response from AWS S3 and integrated it with the viewing response as digital PDF built by Moemen.
+  - Implemented the feature of downloading a response from AWS S3 and integrated it with the viewing response as digital PDF built by Moemen.
   - Pair programmed with Peter to integrate web app with the api servers built by him
   - Pair programmed with Moemen to add print functionality in the web app.
   - Integrated the display excel module built by Moemen.
@@ -38,3 +38,9 @@ This is Team Q and our project is document extraction and management.
   - Worked on the text extraction feature by integrating a third party API.
   - Pair programmed with Peter to design an algorithm that maps rectangular coordinates from the extraction mentioned above with the rectangular coordinates from Peter's pdf extraction module class and decide which field key maps to what extracted value.
   - Pair programmed with Peter in integrating all the apis with the mobile and web modules.
+ 
+#### 3. Moemen Elmegahed
+  - Worked on viewing a pdf file in the browser
+  - Worked on displaying an excel sheet in the form of table in the web app
+  - Pair programmed with Muskaan to work on the print functionality on the mobile and web app
+  - Designed Figma Screens for the web app. (Couldn't be used because the web app eliminated the feature of adding members and users. Link for reference: [https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1](https://www.figma.com/file/nNxxip4qYl4KtLU8vThshZ/digiForm-AI-Screens?type=design&node-id=0%3A1&t=YZYw0P7L1b0VWgbf-1)
