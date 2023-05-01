@@ -14,7 +14,7 @@ The instructions to run each module locally can be found within a contained READ
 
 ### Contributions
 #### 1. Peter Buonaiuto
-Created the backend image processing. This includes
+- Created the backend image processing. This includes
     1. Cropping of images to include only the exact size of the PDF
     2. Uploaded PDF to array of fields (includes their type, coordinate location, value and properties)
     3. Extracted fields back to digital PDF
