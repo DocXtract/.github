@@ -78,7 +78,7 @@ Created the backend image processing. This includes
 #### 5. Dan Yee
 Contributions in old repository [https://github.com/Digiform-AI](https://github.com/Digiform-AI)
  - Worked on api for CRUD operations on the database (Requested by Devin and then wasn't utilised as Devin worked on that whole part individually)
- - Implemented a drap and drop component in React (Requested by Muskaan and then not utilised as pdf upload feature was eliminated from final implementation. Component is useful and would be utilized while extending the project to allow organisations to upload a template form)
+ - Implemented a drag and drop component in React (Requested by Muskaan and then not utilised as pdf upload feature was eliminated from final implementation. Component is useful and would be utilized while extending the project to allow organisations to upload a template form)
  
 #### 6. Prudhvi Raj Bhashampally
 Contributions in old repository [https://github.com/Digiform-AI](https://github.com/Digiform-AI)
