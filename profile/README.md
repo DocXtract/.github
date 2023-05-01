@@ -83,6 +83,6 @@ Contributions in old repository [https://github.com/Digiform-AI](https://github.
  
 #### 6. Prudhvi Raj Bhashampally
 Contributions in old repository [https://github.com/Digiform-AI](https://github.com/Digiform-AI)
- - Researched and worked on the original text extraction method. (Couldn't be used because it wasn't accurate)
+ - Researched and worked on the original text extraction method. (Couldn't be used as found it inaccurate. Was modified later for more accuracy but did not inform the team members)
  - Researched the original mobile printing method. (Couldn't be used because it was not tested and integrated, and didn't work with s3)
  
